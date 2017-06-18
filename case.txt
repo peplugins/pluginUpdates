@@ -1,1 +1,1 @@
-$e->getPlayer()->sendMessage("No updates found!");
+return '$e->getPlayer()->sendMessage("No updates found!");';
